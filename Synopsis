@@ -1,1 +1,196 @@
+# PROJECT SYNOPSIS
 
+## 1. Title of the Project
+
+**Vanguard Gaming Store – Online Gaming Store Website**
+
+## 2. Introduction
+
+The **Vanguard Gaming Store** is a frontend web application designed to provide users with a modern, interactive, and visually appealing platform for exploring video games. The website will display various games along with their prices, ratings, genres, descriptions, and offers.
+
+The project will be developed using **HTML5, CSS3, and JavaScript**. It will include interactive frontend features such as game search, category filtering, shopping cart management, wishlist, dark/light mode, and browser-based Local Storage.
+
+The main purpose of this project is to demonstrate practical knowledge of frontend web development while creating a website that resembles a real-world online gaming marketplace.
+
+## 3. Problem Statement
+
+Many basic gaming websites are either static or provide limited interaction to users. A modern gaming store should provide an attractive interface along with convenient features for discovering and managing games.
+
+The proposed **Vanguard Gaming Store** aims to provide users with an interactive interface where they can:
+
+* Browse available games
+* Search for specific games
+* Filter games by category
+* View game information
+* Add games to a shopping cart
+* Manage their wishlist
+* Calculate the total purchase amount
+
+The project will focus entirely on the **frontend**, without requiring a backend or database.
+
+## 4. Objectives
+
+The main objectives of the project are:
+
+1. To develop a modern and attractive gaming store website.
+2. To create a responsive interface for desktop, tablet, and mobile devices.
+3. To implement game searching and category filtering using JavaScript.
+4. To implement shopping cart functionality.
+5. To display game information such as price, genre, rating, and description.
+6. To implement Dark/Light mode.
+7. To use Local Storage for maintaining cart and wishlist information.
+8. To gain practical experience in HTML, CSS, JavaScript, DOM manipulation, and responsive web design.
+
+## 5. Proposed Features
+
+### 5.1 Home Page
+
+The home page will contain:
+
+* Gaming-themed hero section
+* Featured games
+* Trending games
+* Special offers
+* Navigation to the game store
+
+### 5.2 Game Store
+
+The game store will display:
+
+* Game images
+* Game names
+* Prices
+* Ratings
+* Genres
+* Discount information
+* Add to Cart and Wishlist options
+
+### 5.3 Search and Filtering
+
+Users will be able to search games by name and filter them according to categories such as:
+
+* Action
+* Adventure
+* RPG
+* Racing
+* Sports
+* Strategy
+
+### 5.4 Game Details
+
+The game details section will provide:
+
+* Game description
+* Genre
+* Rating
+* Price
+* Discount
+* System requirements
+* Add to Cart option
+
+### 5.5 Shopping Cart
+
+The shopping cart will allow users to:
+
+* Add games
+* Remove games
+* Change quantity
+* View subtotal
+* Calculate total amount
+
+### 5.6 Wishlist
+
+Users will be able to save their preferred games to a wishlist for future reference.
+
+### 5.7 Dark/Light Mode
+
+A theme-switching feature will allow users to switch between dark and light modes for a better browsing experience.
+
+### 5.8 Local Storage
+
+JavaScript Local Storage will be used to save cart and wishlist information in the user's browser so that the information can remain available after refreshing the webpage.
+
+## 6. Technologies Used
+
+| Technology               | Purpose                                            |
+| ------------------------ | -------------------------------------------------- |
+| **HTML5**                | Structure of web pages                             |
+| **CSS3**                 | Styling, layout, animations, and responsive design |
+| **JavaScript**           | Interactivity and dynamic functionality            |
+| **Local Storage**        | Browser-based storage for cart and wishlist data   |
+| **Font Awesome / Icons** | Interface and navigation icons                     |
+
+## 7. Hardware Requirements
+
+* Computer or Laptop
+* Minimum 4 GB RAM
+* Modern web browser
+* Internet connection for development and obtaining required resources
+
+## 8. Software Requirements
+
+* Visual Studio Code or any suitable code editor
+* Google Chrome, Microsoft Edge, or Mozilla Firefox
+* HTML5
+* CSS3
+* JavaScript
+
+## 9. Project Modules
+
+### Module 1 – User Interface
+
+Designing the overall gaming-themed interface using HTML and CSS.
+
+### Module 2 – Game Catalogue
+
+Displaying games with their images, descriptions, prices, ratings, and categories.
+
+### Module 3 – Search and Filtering
+
+Allowing users to search and filter games according to their requirements.
+
+### Module 4 – Shopping Cart
+
+Managing selected games, quantities, and calculating the total price using JavaScript.
+
+### Module 5 – Wishlist
+
+Allowing users to save and remove their preferred games.
+
+### Module 6 – Theme and Local Storage
+
+Implementing Dark/Light mode and storing cart and wishlist information using browser Local Storage.
+
+## 10. Expected Outcome
+
+The expected outcome of this project is a **responsive and interactive frontend gaming store website** that provides users with a smooth and engaging experience for browsing and managing games.
+
+The project will demonstrate practical knowledge of:
+
+**HTML → CSS → JavaScript → DOM Manipulation → Events → Local Storage → Responsive Design**
+
+The completed website will provide the appearance and functionality of a modern gaming marketplace while remaining completely frontend-based.
+
+## 11. Future Scope
+
+Although the current project will be developed as a frontend-only application, it can be extended in the future by implementing:
+
+* User authentication
+* Backend integration
+* Database integration
+* Online payment gateway
+* Real-time game inventory
+* User reviews and ratings
+* Gaming APIs
+* Admin dashboard
+* Order management system
+
+These additions could transform the project into a complete online gaming marketplace.
+
+## 12. Conclusion
+
+The **Vanguard Gaming Store** project aims to develop a visually appealing, responsive, and interactive online gaming store using frontend web technologies. The project will provide practical experience in designing web interfaces and implementing dynamic functionality using JavaScript.
+
+The project will demonstrate how **HTML, CSS, and JavaScript** can be combined to create a realistic and user-friendly web application without requiring a backend or database. The modular structure of the project will also allow additional technologies and features to be integrated in the future.
+
+Overall, the project will provide practical exposure to frontend web development while creating an engaging and professional gaming store interface.
